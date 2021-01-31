@@ -13,7 +13,7 @@ jobs:
     strategy:
       max-parallel: 4
       matrix:
-        python-version: [3.8, 3.9]
+        python-version: [3.9]
 
     steps:
     - uses: actions/checkout@v2
@@ -26,7 +26,7 @@ jobs:
         python -m pip install --upgrade pip
     - name: Run Tests
       run: |
-        sudo apt install python-venv
-        python -m venv my-project-env
+        sudo apt install python3-venv
+        python3 -m venv my-project-env
         source my-project-env/bin/activate
         python manage.py test
