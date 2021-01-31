@@ -26,4 +26,7 @@ jobs:
         python -m pip install --upgrade pip
     - name: Run Tests
       run: |
+        sudo apt install python-venv
+        python -m venv my-project-env
+        source my-project-env/bin/activate
         python manage.py test
