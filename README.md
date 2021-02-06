@@ -11,7 +11,9 @@ The purpose of an email bot has the ability to automate the process of respondin
 With the usage of email bots in telecommunication organisations, the overall productivity and efficiency within the company will increase, leaving additional time and manpower for additional tasks.We aim to value-add businesses by increasing efficiency, saving time for businesses that can be used in more productive areas.
 
 ### Design 
-Prior to the communication with the email bot, a webform will be used as the platform to bridge the correspondence between the customers and the users. The webform would provide the customers the ability to input their enquiries in related to the contract plans, services as well as products provided by the telecommunication organisation. Once submitting their enquiries, the email bot will be able to parse in the content based on the subject header as well as the body of the email for contextual analysis. Based on the contextual analysis done by the email bot, the response will be constructed in a customised fashion to respond to the queries posed by the customer. 
+Prior to the communication with the email bot, a webform will be used as the platform to bridge the correspondence between the customers and the users. The webform would provide the customers the ability to input their enquiries in related to the contract plans, services as well as products provided by the telecommunication organisation. 
+
+Once submitting their enquiries, the email bot will be able to parse in the content based on the subject header as well as the body of the email for contextual analysis. Based on the contextual analysis done by the email bot, the response will be constructed in a customised fashion to respond to the queries posed by the customer. 
 
 ### Feature 
 * Automated responses on different types of plans, contracts and services.
