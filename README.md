@@ -13,9 +13,6 @@ With the usage of email bots in telecommunication organisations, the overall pro
 ### Design 
 Prior to the communication with the email bot, a webform will be used as the platform to bridge the correspondence between the customers and the users. The webform would provide the customers the ability to input their enquiries in related to the contract plans, services as well as products provided by the telecommunication organisation. Once submitting their enquiries, the email bot will be able to parse in the content based on the subject header as well as the body of the email for contextual analysis. Based on the contextual analysis done by the email bot, the response will be constructed in a customised fashion to respond to the queries posed by the customer. 
 
-A webform will be created for customers to fill in their enquiries, and upon submission, an email will be sent to our email for analysis.
-The bot will parse the contents and lookup on the default list of questions that we have constructed and respond accordingly. 
-
 ### Feature 
 * Automated responses on different types of plans, contracts and services.
 
@@ -29,7 +26,3 @@ The bot will parse the contents and lookup on the default list of questions that
 * We assume that in the context of telcommuncation, one bot is sufficient to handle the customer's queries. 
 * We are handling queries only in context of contracts and services. 
 * Complaints will not be considered in our scope.
-
-
-
-
