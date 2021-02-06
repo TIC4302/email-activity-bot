@@ -3,7 +3,7 @@
 ### Overview 
 This bot is an automated marketing tool that will be beneificial for companies which leverage on web activities to interact with their customers.
 It micmicks that of a conversation AI assistant, which helps to provide automated response to customers queries through our pre-programmed and 
-structured queries and responses.
+structured queries and responses. Ultimately automating the delivery process.
 
 ### Objective 
 The purpose of an email bot has the ability to automate the process of responding to various customer enquiries using the existing organisations email service along with the brand, by using contextual analysis. In the case of a telecommunications company, the email bot would be able to handle queries in relation to the various services, contract plans as well as other telecommunication products that are provided by the company with customised email response.
