@@ -5,6 +5,13 @@ This bot is an automated marketing tool that will be beneificial for companies w
 It micmicks that of a conversation AI assistant, which helps to provide automated response to customers queries through our pre-programmed and 
 structured queries and responses. Ultimately automating the delivery process.
 
+This email bot is intricately designed to work for telecommunication organisations to enhance and automate the correspondence between the organisation and their customers. Email bots are becoming increasingly common within multiple companies due to its multiple benefits that ends up saving cost as well as time productivity within its processes. 
+
+Some of the most common benefits for the usage of Email Bots include: 
+	1. Costs reduction within the organisation with reduced manpower allocated to answering email queries from customers 
+	2. Increased Time efficiency & Productivity with email automation as it ends up saving a great deal of time within the organisation as the bot will be able to handle repetitive queries which would have otherwise been time intensive for the organisation 
+Increased Brand Awareness with clear concise email responses as email automation provides a consistent response to the customers, therefore constructing an increasingly organised appearance to its customers 
+
 ### Objective 
 The purpose of an email bot has the ability to automate the process of responding to various customer enquiries using the existing organisations email service along with the brand, by using contextual analysis. In the case of a telecommunications company, the email bot would be able to handle queries in relation to the various services, contract plans as well as other telecommunication products that are provided by the company with customised email response.
 
