@@ -130,7 +130,7 @@ for singlemails in unread_mails:
     #print(len(results))
     for row in results:
         for keys,value in row[1].items():
-            print(f"Customer_sentence: {row[0]}\nPredefine_queries: {keys}\nConsine_sim: {value}\n")
+            print(f"Customer_sentence: {row[0]}\nPredefine_queries: {keys}\nCosine_sim: {value}\n")
 
     cos_sim_key = identify(results)
     #print(f"cos_sim_key: {cos_sim_key}")
