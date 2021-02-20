@@ -130,13 +130,13 @@ for singlemails in unread_mails:
     #print(len(results))
     for row in results:
         for keys,value in row[1].items():
-            print(f"Customer_sentence: {row[0]}\nPredefine_queries: {keys}\nCosine_sim: {value}\nExpected_results: {keys}\n")
+            print(f"Customer_sentence: {row[0]}\nPredefine_queries: {keys}\nCosine_sim: {value}\n")
 
     cos_sim_key = identify(results)
     #print(f"cos_sim_key: {cos_sim_key}")
 
     response_to_client = retrieve_response(cos_sim_key, responses)
-    print(f"response to client:\n{response_to_client}")
+    print(f"response to client:\n{response_to_client}\nExpected_results:\n {response_to_client}\n")
 
 print("=================================================================================")
 
