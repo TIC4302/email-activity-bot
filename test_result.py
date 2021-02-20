@@ -136,7 +136,7 @@ for singlemails in unread_mails:
     #print(f"cos_sim_key: {cos_sim_key}")
 
     response_to_client = retrieve_response(cos_sim_key, responses)
-    print(f"response to client:\n{response_to_client}\nExpected_results:\n {response_to_client}\n")
+    print(f"response to client:\n{response_to_client}\nExpected_results:\n{response_to_client}\n")
 
 print("=================================================================================")
 
