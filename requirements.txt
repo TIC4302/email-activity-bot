@@ -4,4 +4,3 @@ pytz==2021.1
 sqlparse==0.4.1
 
 IMAPClient==2.2.0
-pyzmail==1.0.3
