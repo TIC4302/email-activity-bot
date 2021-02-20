@@ -21,7 +21,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        python3 easy_install pyzmail
+        pip install pyzmail36
     - name: Run Tests
       run: |
         python manage.py test
