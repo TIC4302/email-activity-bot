@@ -4,6 +4,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 #from nltk.corpus import stopwords
 import nltk
 #from nltk.corpus
+nltk.download('punkt')
 
 '''
 to install stopwords resource:
