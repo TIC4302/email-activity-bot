@@ -1,4 +1,4 @@
-name: Django CI
+name: Django Boot up Server Test
 
 on:
   push:
