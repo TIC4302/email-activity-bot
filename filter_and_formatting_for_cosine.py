@@ -3,7 +3,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 #from nltk.corpus import stopwords
 import nltk
-from nltk.corpus
+#from nltk.corpus
 
 ''' for seperating paragraphs into sentences '''
 #nltk.download('punkt')
