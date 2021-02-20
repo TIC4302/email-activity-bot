@@ -1,4 +1,4 @@
-name: Django Boot up Server Test
+name: Django Boot up Server Test Case 1 & Email Analyzer Test Case 2
 
 on:
   push:
