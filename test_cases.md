@@ -4,7 +4,7 @@
 ### Description: Testing of the Email Bot through automated YAML scripts using Django. 
 
 ### Steps: 
-* Creation of the testing workflow using YAML as attached [a link](https://github.com/TIC4302/email-activity-bot/blob/main/.github/workflows/EmailBotWorkFlow.yml)
+* Creation of the testing workflow using YAML as [attached](https://github.com/TIC4302/email-activity-bot/blob/main/.github/workflows/EmailBotWorkFlow.yml)
 * Install Python and Dependent Libraries 
 * Start up Django Server
 * Run test cases within test_file.py
