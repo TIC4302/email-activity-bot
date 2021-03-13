@@ -38,7 +38,11 @@ to input their enquiries in related to the contract plans, services as well as p
 
 Once submitting their enquiries, the email bot will be able to parse in the content based on the subject header as 
 well as the body of the email for contextual analysis. Based on the contextual analysis done by the email bot, 
-the response will be constructed in a customised fashion to respond to the queries posed by the customer. 
+the response will be constructed in a customised fashion to respond to the queries posed by the customer.
+
+The overall design is shown below:
+
+![](team_d_software_workflow_revised_1.png)
 
 ### Feature 
 * Automated responses on different types of plans, contracts and services.
