@@ -1,5 +1,16 @@
 <!-- templates/email.html -->
-<h1>Contact Us</h1>
+<h1>TIC4302 Telecommunications Pte Ltd</h1>
+<h2>Contact Us</h2>
+
+<p>TIC4302 Telecommunications manages and services 4 main packages. </p>
+    <ol>
+        <li>Mobile phone + Contract.</li>
+        <li>Only Mobile Phone</li>
+        <li>Fibre Optics internet Solution for your home.</li>
+        <li>Digital TV Connection.</li>
+    </ol>
+<p>If you would like to know more with regards to the different products and its individual pricing details,<br> please drop us a query via our Webform. </p>
+<p>Thank you for your interest on our services. We are always glad to assist. </p>
 <form method="post">
     {% csrf_token %}
     {{ form.as_p }}
