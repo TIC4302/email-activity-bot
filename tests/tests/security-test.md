@@ -38,3 +38,10 @@ To perform a deeper analysis within the functions of the Email Bot, the Bandit T
 
 ## Dependencies  
 
+#### Dependabot Dependencies 
+The configurations and upgrades required for the different packages and tools were completed to fulfil the necessary dependency related issues. 
+![Alt text](https://github.com/TIC4302/email-activity-bot/blob/main/tests/tests/images/Dependency%201.jpg "Optional title")
+
+#### Bandit Dependencies 
+A scan was completed against Bandit for issues in relation to dependcies against the required packages. 
+![Alt text](https://github.com/TIC4302/email-activity-bot/blob/main/tests/tests/images/Dependency%202.jpg.png "Optional title")
