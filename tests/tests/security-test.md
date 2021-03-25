@@ -43,5 +43,5 @@ The configurations and upgrades required for the different packages and tools we
 ![Alt text](https://github.com/TIC4302/email-activity-bot/blob/main/tests/tests/images/Dependency%201.jpg "Optional title")
 
 #### Bandit Dependencies 
-A scan was completed against Bandit for issues in relation to dependcies against the required packages. 
+A scan was completed against Bandit for issues in relation to dependencies against the required packages. 
 ![Alt text](https://github.com/TIC4302/email-activity-bot/blob/main/tests/tests/images/Dependency%202.jpg.png "Optional title")
