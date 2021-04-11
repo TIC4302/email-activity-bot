@@ -1,3 +1,3 @@
-gitclone https://github.com/PyCQA/bandit.git; 
+git clone https://github.com/PyCQA/bandit.git; 
 cd bandit; 
 pip3 install bandit;
