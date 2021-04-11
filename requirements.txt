@@ -1,6 +1,0 @@
-IMAPClient==2.2.0
-pkg-resources==0.0.0
-pyzmail==1.0.3
-scikit-learn==0.24.1
-six==1.15.0
-threadpoolctl==2.1.0
