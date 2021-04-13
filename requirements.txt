@@ -18,7 +18,7 @@ IMAPClient==2.2.0
 joblib==1.0.1
 nltk==3.5
 numpy==1.19.5
-pandas==1.1.5
+pandas==1.2.4
 pkg-resources==0.0.0
 pyahocorasick==1.4.1
 python-crfsuite==0.9.7
