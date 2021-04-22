@@ -53,3 +53,22 @@ the response will be constructed in a customised fashion to respond to the queri
 * We assume that in the context of telcommuncation, one bot is sufficient to handle the customer's queries. 
 * We are handling queries only in context of contracts and services. 
 * Complaints will not be considered in our scope.
+
+### Installation guide. 
+* cd <desired folder> 
+* wget https://raw.githubusercontent.com/TIC4302/email-activity-bot/main/download_install_script.sh
+* chmod +x download_install_script.sh
+* ./download_install_script (This should pull all the remaining installation script.)
+* chmod +x ./*.sh (This will give permissions to execute all of the remaining installation script
+* ./install.sh (This script will create a virtual environment, pull all code dependencies relating to the bot.)
+* ./run_server.sh (This will start the django webserver for you.) 
+* ./run_bot.sh (This will run the email automation bot which checks for emails periodically every 30 seconds until terminated.)
+*
+*  after the above step, navigate to 127.0.0.1:8000/contact/   
+*  you may use a legit email as well as a posting an enquiry. It should automatically send you a response. 
+
+### Security Checks.
+* To run security checks. Under <desired folder> 
+* ./bandit_check.sh (This script runs the email automation script and check for security issues.) 
+*  (To check for the whole folder, you may change the script to include the file path, or to run bandit -r <folder or script manually> 
+*  
