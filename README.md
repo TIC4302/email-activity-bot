@@ -55,7 +55,7 @@ the response will be constructed in a customised fashion to respond to the queri
 * Complaints will not be considered in our scope.
 
 ### Installation guide. 
-* cd <desired folder> 
+* cd (desired folder)
 * wget https://raw.githubusercontent.com/TIC4302/email-activity-bot/main/download_install_script.sh
 * chmod +x download_install_script.sh
 * ./download_install_script (This should pull all the remaining installation script.)
