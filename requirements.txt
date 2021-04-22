@@ -16,7 +16,7 @@ html5lib==1.1
 idna==2.10
 IMAPClient==2.2.0
 joblib==1.0.1
-nltk==3.5
+nltk==3.6.2
 numpy==1.19.5
 pandas==1.1.5
 pkg-resources==0.0.0
