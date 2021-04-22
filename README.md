@@ -71,4 +71,11 @@ the response will be constructed in a customised fashion to respond to the queri
 * To run security checks. Under <desired folder> 
 * ./bandit_check.sh (This script runs the email automation script and check for security issues.) 
 *  (To check for the whole folder, you may change the script to include the file path, or to run bandit -r <folder or script manually> 
-*  
+
+### Customization.
+* Customization can be found a the following path: 
+* To change email credentials --> <desired folder>/FINAL_TEST/email-activity-bot/config/settings.py
+* To change or add fields required for the web page --> <desired folder>/FINAL_TEST/email-activity-bot/sendemail/forms.py
+* To add further paths such as /contact --> <desired folder>/FINAL_TEST/email-activity-bot/sendemail/urls.py
+* To change or enhance the webpage to your liking --> <desired folder>/FINAL_TEST/email-activity-bot/sendemail/views.py
+
