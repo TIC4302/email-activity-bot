@@ -11,7 +11,7 @@ cached-property==1.5.2
 certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
-elasticsearch==2.0.0
+elasticsearch==7.12.1
 html5lib==1.1
 idna==2.10
 IMAPClient==2.2.0
