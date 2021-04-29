@@ -1,0 +1,49 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: pylint
+    versions:
+    - 2.7.4
+    - 2.8.1
+  - dependency-name: nltk
+    versions:
+    - 3.6.1
+  - dependency-name: tqdm
+    versions:
+    - 4.59.0
+    - 4.60.0
+  - dependency-name: regex
+    versions:
+    - 2021.3.17
+    - 2021.4.4
+  - dependency-name: pyahocorasick
+    versions:
+    - 1.4.2
+  - dependency-name: scipy
+    versions:
+    - 1.6.1
+    - 1.6.2
+  - dependency-name: elasticsearch
+    versions:
+    - 7.11.0
+    - 7.12.0
+  - dependency-name: soupsieve
+    versions:
+    - 2.2.1
+  - dependency-name: pandas
+    versions:
+    - 1.2.3
+  - dependency-name: django
+    versions:
+    - 3.1.7
+  - dependency-name: urllib3
+    versions:
+    - 1.26.4
+  - dependency-name: idna
+    versions:
+    - "3.1"
